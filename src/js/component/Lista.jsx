@@ -38,7 +38,7 @@ const Lista = () => {
     <>
           <h1 className="text-center mt-5 fs-1">todos</h1>
 
-          <div className='container-fluid z-3 text-center sombras mb-3 bg-body-tertiary  position-relative w-75 border border-dark-subtle border border-1 border-dark-subtle  mb-2 border-opacity-50 px-0'>
+          <div className='container-fluid z-3 text-center sombra mb-3 bg-body-tertiary  position-relative w-75 border border-dark-subtle border border-1 border-dark-subtle  mb-2 border-opacity-50 px-0'>
 
           <div className='row inpList w-100 m-0 '>
             <input 
